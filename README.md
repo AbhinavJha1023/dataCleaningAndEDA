@@ -1,7 +1,3 @@
-# dataCleaningAndEDA
-Data Cleaning And EDA On A Dataset Using MySQL
-# World Layoff Dataset Analysis
-
 ## Project Description
 
 This project focuses on analyzing and cleaning a dataset that captures information about layoffs across the globe. The primary goal is to ensure data integrity, uncover trends, and extract meaningful insights that can support decision-making and further analytical processes.
